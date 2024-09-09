@@ -7,18 +7,9 @@ Curvetopia is an advanced web application designed to seamlessly create, visuali
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Features](#features)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Setting Up](#setting-up)
-- [Usage](#usage)
-  - [Google Colab Notebook](#google-colab-notebook)
-  - [Streamlit Web App](#streamlit-web-app)
 - [Dataset](#dataset)
 - [Examples](#examples)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
