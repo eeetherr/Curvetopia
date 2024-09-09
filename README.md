@@ -56,7 +56,6 @@ Here are some example pairs you can use to test the application:
 ## Technologies Used
 
 - **Python 3.7+**
-- **Streamlit:** 
 - **Google Colab:** 
 - **CairoSVG:** SVG to PNG conversion
 - **Pillow:** Image processing
